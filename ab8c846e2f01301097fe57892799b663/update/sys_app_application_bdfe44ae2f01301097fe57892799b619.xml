@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_604102_train_p_0.passenger_info_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-02 12:04:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bdfe44ae2f01301097fe57892799b619</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Passenger Info</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Passenger Info" source="x_604102_passenger">ab8c846e2f01301097fe57892799b663</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Passenger Info">ab8c846e2f01301097fe57892799b663</sys_scope>
+        <sys_update_name>sys_app_application_bdfe44ae2f01301097fe57892799b619</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-02 12:04:53</sys_updated_on>
+        <title>Passenger Info</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
